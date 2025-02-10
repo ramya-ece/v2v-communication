@@ -33,7 +33,9 @@ Advanced vehicle-to-vehicle communication system enabling real-time data exchang
 - Data Format: JSON for message exchange
 - Database: SQLite for local storage
 
-Contact
+
+**_Contact_**
+
 Developer: SAI RAMYA BADUGU
 Email: ramyaece2024@gmailcom
 LinkedIn: linkedin.com/in/sai-ramya-badugu02
